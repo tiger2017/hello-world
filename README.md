@@ -7,3 +7,4 @@ This is my first github program for hello world code.
 
 haha.
 We are texting following the instruction.
+Merged..
